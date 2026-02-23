@@ -1,1 +1,70 @@
-# Mugunthan-Arjunan
+<h1 align="center">Hi 👋, I'm MUGUNTHAN</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Backend+Focused;DSA+Learner;Building+Real+World+Projects" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 M.Tech Computer Science  
+- 💻 Building scalable full-stack applications  
+- 🧠 Practicing Data Structures & Algorithms  
+- 🔍 Currently mastering Graphs (BFS / DFS)  
+- 🎯 Focused on becoming a strong Software Engineer  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏫 Exam Hall Allocation System
+- Automated student seating logic
+- Alternating department algorithm
+- Multi-page structured layout generation
+- Rule-based allocation engine
+
+### 📋 Project Management Tool (Mini Jira)
+- Role-based authentication
+- Task lifecycle tracking
+- MERN full-stack architecture
+
+### 💬 Real-Time Video Meeting Platform
+- Authentication system
+- Live interaction
+- Scalable backend structure
+
+---
+
+## 📈 Currently Learning
+
+```diff
++ Advanced React Patterns
++ Backend Optimization
++ Graph Algorithms
++ Clean Architecture
