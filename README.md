@@ -1,72 +1,103 @@
-<h1 align="center">Hi 👋, I'm MUGUNTHAN</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Problem Solver</h3>
+<!-- Animated Gradient Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=MUGUNTHAN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h3 align="center">Full Stack Developer | MERN Stack | Python Programmer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Backend+Focused;DSA+Learner;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Backend+Focused;Python+for+DSA;Building+Real+World+Projects;Future+Software+Engineer" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 M.Tech Computer Science  
+- 🎓 M.Tech Computer Science Student
 - 💻 Building scalable full-stack applications  
-- 🧠 Practicing Data Structures & Algorithms  
-- 🔍 Currently mastering Graphs (BFS / DFS)  
-- 🎯 Focused on becoming a strong Software Engineer  
+- 🐍 Familiar in Python
+- 🔍 Backend-focused developer  
+- 🎯 Goal: Becoming a top-tier Software Engineer  
+
+---
+
+## 🧠 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js" height="60"/>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Frontend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
 
 ### ⚙️ Backend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄 Database
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### 🧰 Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mugunthanarjunan-glitch&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/> </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mugunthanarjunan-glitch&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mugunthanarjunan-glitch&theme=tokyonight" height="160"/>
+</p>
+
+---
+🌐 Connect With Me
+
+<p align="center"> <a href="https://www.linkedin.com/in/mugunthan-arjunan" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> &nbsp;&nbsp; <a href="mailto:mugunthanarjunan@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> </p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mugunthanarjunan-glitch&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
 ### 🏫 Exam Hall Allocation System
-- Automated student seating logic
-- Alternating department algorithm
-- Multi-page structured layout generation
-- Rule-based allocation engine
+- Rule-based student seating allocation  
+- Department alternation logic  
+- Multi-page structured layout generation  
 
 ### 📋 Project Management Tool (Mini Jira)
-- Role-based authentication
-- Task lifecycle tracking
-- MERN full-stack architecture
+- Role-based authentication  
+- Task lifecycle tracking  
+- MERN full-stack architecture  
 
 ### 💬 Real-Time Video Meeting Platform
-- Authentication system
-- Live interaction
-- Scalable backend structure
+- Secure authentication  
+- Live communication  
+- Scalable backend structure  
 
 ---
-🌐 Connect With Me
-<p align="left"> <a href="www.linkedin.com/in/mugunthan-arjunan" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a> <a href="mailto:mugunthanarjunan@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a> </p>
+
 ## 📈 Currently Learning
 
 ```diff
 + Advanced React Patterns
 + Backend Optimization
-+ Graph Algorithms
++ Graph Algorithms (BFS / DFS)
 + Clean Architecture
