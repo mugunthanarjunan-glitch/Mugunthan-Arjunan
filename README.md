@@ -1,22 +1,24 @@
-<!-- Animated Gradient Banner -->
+<!-- ==================== BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=200&section=header&text=MUGUNTHAN&fontSize=50&fontColor=00F7FF&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=190&section=header&text=MUGUNTHAN%20ARJUNAN&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Full Stack Developer | MERN Stack | Python Programmer | Problem Solver</h3>
+<p align="center">
+  <strong>Full Stack Developer • Python • MERN Stack</strong>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Backend+Focused;Python+for+DSA;Building+Real+World+Projects;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Backend+Focused;Python+for+DSA;Building+Real+World+Projects;Future+Software+Engineer" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 M.Tech Computer Science Student
-- 💻 Building scalable full-stack applications  
-- 🐍 Familiar in Python
-- 🔍 Backend-focused developer  
+- 🎓 M.Tech Computer Science Student  
+- 💻 Building scalable full-stack web applications  
+- 🐍 Working with Python for Data Structures & Algorithms  
+- 🔍 Backend-focused development approach  
 - 🎯 Goal: Becoming a top-tier Software Engineer  
 
 ---
@@ -53,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=mugunthanarjunan-glitch" height="170"/>
@@ -62,14 +64,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mugunthanarjunan-glitch&theme=tokyonight&hide_border=true" height="170"/>
 </p>
----
-🌐 Connect With Me
-
-<p align="center"> <a href="https://www.linkedin.com/in/mugunthan-arjunan" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> &nbsp;&nbsp; <a href="mailto:mugunthanarjunan@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> </p>
 
 ---
 
-## 📊 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mugunthanarjunan-glitch&theme=tokyo-night&hide_border=true" width="95%"/>
@@ -95,7 +93,6 @@
 - Scalable backend structure  
 
 ---
-
 ## 📈 Currently Learning
 
 ```diff
@@ -103,3 +100,13 @@
 + Backend Optimization
 + Graph Algorithms (BFS / DFS)
 + Clean Architecture
+```
+---
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/mugunthan-arjunan" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> &nbsp;&nbsp; <a href="mailto:mugunthanarjunan@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> </p>
+
+
+<p align="center"> ⚡ Consistency Beats Motivation ⚡ </p>
+
+
+
