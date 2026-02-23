@@ -1,6 +1,6 @@
 <!-- Animated Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=220&section=header&text=MUGUNTHAN&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=200&section=header&text=MUGUNTHAN&fontSize=50&fontColor=00F7FF&animation=twinkling" />
 </p>
 
 <h3 align="center">Full Stack Developer | MERN Stack | Python Programmer | Problem Solver</h3>
