@@ -61,7 +61,8 @@
 - Scalable backend structure
 
 ---
-
+🌐 Connect With Me
+<p align="left"> <a href="www.linkedin.com/in/mugunthan-arjunan" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a> <a href="mailto:mugunthanarjunan@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a> </p>
 ## 📈 Currently Learning
 
 ```diff
